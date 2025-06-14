@@ -1,0 +1,32 @@
+.product-list{
+    flex: 1;
+    padding: 0 20px;
+}
+
+.product-list-title{
+    text-align: center;
+
+}
+
+.product-list-items{
+    list-style: none;
+    padding: 0;
+}
+
+.product-list-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.add-to-cart-btn{
+    background-color: navy;
+    color: antiquewhite;
+    border: none;
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
