@@ -1,5 +1,7 @@
 .app {
   font-family: Arial, sans-serif;
+  letter-spacing: 2px;
+ 
 }
 
 .app-title {
@@ -12,7 +14,9 @@
   margin-top: 20px;
 }
 .app-heading{
-  background-color: darkslategrey;
-  color: white;
+  color: darkslategrey;
+font-family: 'Times New Roman', Times, serif;
   text-align: center;
+ 
+  font-weight: 1000px;
 }

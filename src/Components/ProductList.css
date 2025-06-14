@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'myFirstFont';
+  src: url('./assets/Milker.otf') format('opentype');
+}
+
 .product-list{
     flex: 1;
     padding: 0 20px;
@@ -5,7 +10,7 @@
 
 .product-list-title{
     text-align: center;
-
+    font-family: 'myFirstFont', sans-serif;
 }
 
 .product-list-items{

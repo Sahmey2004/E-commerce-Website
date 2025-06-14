@@ -1,10 +1,16 @@
+@font-face {
+  font-family: 'myFirstFont';
+  src: url('./assets/Milker.otf') format('opentype');
+}
+
 .shopping-cart{
     flex: 1;
     padding: 10px 20px;
 }
 
-.shopping-cart-title{
-    text-align: center;
+.shopping-cart-title {
+  text-align: center;
+  font-family: 'myFirstFont', sans-serif;
 }
 
 .cart-items{
